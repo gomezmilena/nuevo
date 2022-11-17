@@ -1,5 +1,5 @@
 import "./index.css";
-
+// y
 function QuestionCard({ preguntaActual }) {
     return (
         <div className="box">
